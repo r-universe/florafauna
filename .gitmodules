@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gapfill"]
+	path = gapfill
+	url = https://github.com/florafauna/gapfill
+	shallow = true
+	subdir = gapfill
+	registered = true
+[submodule "optimParallel"]
+	path = optimParallel
+	url = https://github.com/florafauna/optimparallel-r
+	shallow = true
+	subdir = optimParallel
+	registered = true
