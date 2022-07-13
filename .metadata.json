@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "package": "gapfill",
+    "oncran": true
+  },
+  {
+    "package": "optimParallel",
+    "oncran": true
+  }
+]
