@@ -1,10 +1,10 @@
 [
   {
-    "package": "gapfill",
+    "package": "optimParallel",
     "oncran": true
   },
   {
-    "package": "optimParallel",
+    "package": "gapfill",
     "oncran": true
   }
 ]
