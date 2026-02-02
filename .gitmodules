@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gapfill"]
-	path = gapfill
-	url = https://github.com/florafauna/gapfill
-	subdir = gapfill
 [submodule "optimParallel"]
 	path = optimParallel
 	url = https://github.com/florafauna/optimparallel-r
